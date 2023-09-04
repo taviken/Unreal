@@ -29,7 +29,8 @@
 				"D:/Github/Unreal/Rts_test/Content/RTS_Player_Controller.uasset",
 				"D:/Github/Unreal/Rts_test/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
 				"D:/Github/Unreal/Rts_test/Content/RTS_Marquee_Hud.uasset",
-				"D:/Github/Unreal/Rts_test/Content/RTS_Interface.uasset"
+				"D:/Github/Unreal/Rts_test/Content/RTS_Interface.uasset",
+				"D:/Github/Unreal/Rts_test/Content/TopDown/Maps/TopDownMap.umap"
 			]
 		}
 	]
