@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Github/Unreal/ProtoTBS/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"D:/Github/Unreal/ProtoTBS/Content/Maps/L_Entry.umap",
+				"D:/Github/Unreal/ProtoTBS/Content/Blueprints/Core/Player/BP__GameMOde.uasset",
+				"D:/Github/Unreal/ProtoTBS/Content/Blueprints/Core/BP__GameMOde.uasset",
+				"D:/Github/Unreal/ProtoTBS/Content/Blueprints/Core/Player/BP_Pawn.uasset",
+				"D:/Github/Unreal/ProtoTBS/Content/Blueprints/Core/Player/BP_PlayerController.uasset"
+			]
+		}
+	]
+}

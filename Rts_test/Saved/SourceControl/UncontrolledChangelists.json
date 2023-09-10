@@ -33,7 +33,10 @@
 				"D:/Github/Unreal/Rts_test/Content/TopDown/Maps/TopDownMap.umap",
 				"D:/Github/Unreal/Rts_test/Content/UnitB.uasset",
 				"D:/Github/Unreal/Rts_test/Content/UnitA.uasset",
-				"D:/Github/Unreal/Rts_test/Content/Selected_Units_Area.uasset"
+				"D:/Github/Unreal/Rts_test/Content/Selected_Units_Area.uasset",
+				"D:/Github/Unreal/Rts_test/Content/SelectedUnitWidget.uasset",
+				"D:/Github/Unreal/Rts_test/Content/Highlight_Decal_temp.uasset",
+				"D:/Github/Unreal/Rts_test/Content/Highlight_Decal.uasset"
 			]
 		}
 	]
